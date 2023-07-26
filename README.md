@@ -1,0 +1,2 @@
+# Ai-Adventures
+Python Notes 
